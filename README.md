@@ -10,4 +10,7 @@ test1
 이것에 메인브랜치 입니다. by혁수
 
 
-gggggggggg
+ggggggg
+
+test2
+test2
